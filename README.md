@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **chelaramanipratham@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/LENOVO/Desktop/Internship/MyResume.pdf](https://prathamchelaramani.github.io/Resume/MyResume.pdf)
+- 📄 Know about my experiences [Resume](https://prathamchelaramani.github.io/Resume/MyResume.pdf)
 
 - ⚡ Fun fact **Am I Funny?**
 
