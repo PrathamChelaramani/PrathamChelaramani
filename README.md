@@ -3,8 +3,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/f13afb3465b1a7498f375b40b17ed882fdfbfa7c74b3a10aac36d9688ea178a8/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f353430333931382f666f6375732d616e696d6174696f6e2e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamchelaramani&label=Profile%20views&color=0e75b6&style=flat" alt="prathamchelaramani" /> </p>
-
 - 🌱 I’m currently learning **Google Cloud**
 
 - 💬 Ask me about **GCP, DSA, Java**
