@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **chelaramanipratham@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://prathamchelaramani.github.io/Resume/MyResume.pdf)
+- 📄 Know about my experiences [Resume]("https://drive.google.com/file/d/1aIm7yXdB1nqDHrMQJtTn9CN_CE6z8P5f/view?usp=sharing")
 
 - ⚡ Fun fact **Am I Funny?**
 
